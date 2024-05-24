@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+![GitHub stats](https://github-readme-stats.vercel.app/api?kmw2378=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kmw2378=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw89891)](https://solved.ac/kmw89891/)
 
 <!--
