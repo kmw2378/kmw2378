@@ -1,21 +1,9 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
-![GitHub stats](https://github-readme-stats.vercel.app/api?kmw2378=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kmw2378=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw89891)](https://solved.ac/kmw89891/)
+![kmw2378's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmw2378&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmw2378)
 
-<!--
-**kmw2378/kmw2378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw89891)](https://solved.ac/kmw89891/)             
 
-Here are some ideas to get you started:
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" />
